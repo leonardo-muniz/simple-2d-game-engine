@@ -1,3 +1,7 @@
+# ==========================
+# C++ / SFML compiled files
+# ==========================
+
 # Prerequisites
 *.d
 
@@ -39,3 +43,28 @@
 
 # debug information files
 *.dwo
+
+# ==========================
+# Build folders
+# ==========================
+/build/
+/bin/
+/Debug/
+/Release/
+
+# ==========================
+# Python / Pygame
+# ==========================
+__pycache__/
+*.pyc
+
+# ==========================
+# IDE / editor files
+# ==========================
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln
+*.xcodeproj
